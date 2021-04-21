@@ -1,0 +1,23 @@
+{
+  "name": "hsia-npx-card",
+  "version": "1.0.0",
+  "description": "A card of Hsia",
+  "main": "./index.js",
+  "bin": {
+    "hsia": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunhsiaho/npx-card.git"
+  },
+  "author": "Hsia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunhsiaho/npx-card/issues"
+  },
+  "homepage": "https://github.com/yunhsiaho/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1"
+  }
+}
